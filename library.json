@@ -1,13 +1,13 @@
 {
-  "name": "MFRC522",
-  "version": "1.4.9",
+  "name": "MFRC522-yp",
+  "version": "1.0.1",
   "license": "Unlicense",
   "keywords": "rfid, spi",
   "description": "Read a card using a MFRC522 reader on your SPI interface.",
   "repository":
   {
     "type": "git",
-    "url": "https://github.com/miguelbalboa/rfid.git"
+    "url": "https://github.com/yoprogramo/rfid.git"
   },
   "exclude": "doc",
   "frameworks": "arduino",
