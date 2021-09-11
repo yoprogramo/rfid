@@ -1,8 +1,6 @@
 MFRC522
 =======
 
-.. image:: https://img.shields.io/maintenance/no/2019.svg
-    :target: `development`_
 .. image:: https://github.com/miguelbalboa/rfid/workflows/PlatformIO%20CI/badge.svg
    :target: https://github.com/miguelbalboa/rfid/actions
    :alt: GitHub Actions
@@ -25,16 +23,9 @@ Interface (SPI) interface.
 Development
 ----------
 
-**The development by owner miguelbalboa has ended**.
+**The development by owner miguelbalboa has ended**. 
 
-**Feature status: complete freeze**; no function or API change.
-
-**Code status: partial freeze**; just fixes/typos or documentation updates; *no* extensions for other boards; *no* new examples.
-
-**Maintenance status: sporadically**.
-
-**Why no further development?**
-This library has a long history and is used in many projects. These projects often do not document what version they use. Committing changes might break those old projects and lead to bad experiences (for beginners) and support requests. For these reasons the library is in freeze mode. You can still commit typo, documentation or bug fixes.
+(yoprogramo/biblioeteca) created this fork to add new features without breaking the compatibility with previous code. The library name changed to MFRC522-yp and is a drop-in replace for the original one.
 
 
 .. _before buy:
