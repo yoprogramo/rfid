@@ -1,5 +1,5 @@
-MFRC522
-=======
+MFRC522-yp
+==========
 
 .. image:: https://github.com/miguelbalboa/rfid/workflows/PlatformIO%20CI/badge.svg
    :target: https://github.com/miguelbalboa/rfid/actions
